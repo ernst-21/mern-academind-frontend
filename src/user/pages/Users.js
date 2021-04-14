@@ -37,5 +37,3 @@ const Users = () => {
 };
 
 export default Users;
-
-// comments added. We are adding comments.
